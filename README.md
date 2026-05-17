@@ -2,6 +2,10 @@
 
 A responsive Smart Expense Tracker web application built using HTML, CSS, and JavaScript.
 
+## Live Demo
+
+https://anwika-expenseflow.netlify.app/
+
 ## Features
 
 - Add income and expenses
