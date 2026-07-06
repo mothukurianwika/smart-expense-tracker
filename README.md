@@ -35,3 +35,7 @@ Deployed using GitHub Pages.
 ## Author
 
 Anwika
+
+B.Tech Computer Science Engineering
+
+GitHub: https://github.com/mothukurianwika
